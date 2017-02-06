@@ -376,6 +376,7 @@ var words = [
 	"smelt",
 	"sedan",
 	"skier",
+	"slang",
 	"sluis",
 	"sneer",
 	"steel",
