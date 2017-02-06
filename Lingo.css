@@ -1,0 +1,15 @@
+body {
+	background-image: url("bg.png");
+}
+
+table {
+	background-color: blue;
+	margin: auto;
+}
+
+td {
+	height: 70px;
+	width: 75px;
+	border: solid 2px white;
+	text-align: center;
+}
