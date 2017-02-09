@@ -13,3 +13,19 @@ td {
 	border: solid 2px white;
 	text-align: center;
 }
+
+input{
+	width: 60%;
+	color: white;
+	font-family: verdana;
+	background-color: blue;
+	border-color: blue;
+	height: 50%;
+}
+
+button{
+	margin-left: 730px;
+	margin-top: 25px;
+	position: relative;
+}
+
